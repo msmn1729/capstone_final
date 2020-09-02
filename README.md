@@ -4,3 +4,7 @@
 ![imge](https://img.shields.io/badge/ProjectType-TeamProject-green)
 ![imge](https://img.shields.io/badge/Language-python-yellow)
 ![imge](https://img.shields.io/badge/Tools-PyCharm-red)
+
+- 주제 : 딥러닝 기반 열악 자동차 번호 이미지 복원 및 인식 기술  
+(Deep Learning-Based Vehicle Number low resolution Image Restoration and Recognition Technology)
+- 20-1 창의경진대회 우수상 수상
