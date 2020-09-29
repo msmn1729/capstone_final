@@ -8,3 +8,4 @@
 - 주제 : 딥러닝 기반 열악 자동차 번호 이미지 복원 및 인식 기술  
 (Deep Learning-Based Vehicle Number low resolution Image Restoration and Recognition Technology)
 - 제9회 창의설계경진대회 우수상 수상(2020.06.19)
+- 발표 및 시연영상 : [YouTube](https://youtu.be/fghqxWO-deQ)
