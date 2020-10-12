@@ -17,7 +17,7 @@
 
 ------
 
-### 필요성
+### 필요성:bar_chart:
 
 ![자료](https://user-images.githubusercontent.com/59201008/95758637-af1db000-0ce3-11eb-9108-bc772c069537.png)
 
@@ -41,7 +41,7 @@
 
 ------
 
-## 주요 기능
+## 주요 기능:dart:
 
 ![주요 기능](https://user-images.githubusercontent.com/59201008/95758927-028ffe00-0ce4-11eb-9ac3-3a769a8a6772.png)
 
@@ -53,7 +53,7 @@
 
 ------
 
-## 흐름도(Flow chart)
+## 흐름도(Flow chart):page_facing_up:
 
 ![흐름도](https://user-images.githubusercontent.com/59201008/95759992-71ba2200-0ce5-11eb-9a5c-90c66ab058c7.png)
 
