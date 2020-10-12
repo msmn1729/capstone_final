@@ -17,7 +17,7 @@
 
 ------
 
-### 필요성:bar_chart:
+## 필요성:bar_chart:
 
 ![자료](https://user-images.githubusercontent.com/59201008/95758637-af1db000-0ce3-11eb-9108-bc772c069537.png)
 
