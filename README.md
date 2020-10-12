@@ -6,6 +6,7 @@
 ![imge](https://img.shields.io/badge/ProjectType-TeamProject-green)
 ![imge](https://img.shields.io/badge/Language-python-yellow)
 ![imge](https://img.shields.io/badge/Tools-PyCharm-red)
+![imge](https://img.shields.io/badge/Tools-Django-red)
 
 ## 프로그램 소개:memo:
 
@@ -13,8 +14,6 @@
 (Deep Learning-Based Vehicle Number low resolution Image Restoration and Recognition Technology)
 
 - 제9회 창의설계경진대회 우수상 수상(2020.06.19.)
-
-- 발표 및 시연영상 : [YouTube](https://youtu.be/fghqxWO-deQ)  (Shift를 누른 상태로 클릭해주세요:smile:)
 
 ------
 
@@ -57,3 +56,11 @@
 ## 흐름도(Flow chart)
 
 ![흐름도](https://user-images.githubusercontent.com/59201008/95759992-71ba2200-0ce5-11eb-9a5c-90c66ab058c7.png)
+
+------
+
+## 시연 동영상:oncoming_police_car:
+
+![시연 동영상](https://user-images.githubusercontent.com/59201008/95768583-88667600-0cf1-11eb-9c08-a4709f026d3a.gif)
+
+- 발표 및 시연영상 : [YouTube](https://youtu.be/fghqxWO-deQ) (Shift를 누른 상태로 클릭해주세요:smile:)
