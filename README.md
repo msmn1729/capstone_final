@@ -63,6 +63,4 @@
 
 ## 시연 동영상:oncoming_police_car:
 
-![시연 동영상](https://user-images.githubusercontent.com/59201008/95768583-88667600-0cf1-11eb-9c08-a4709f026d3a.gif)
-
-- 발표 및 시연영상 : [YouTube](https://youtu.be/fghqxWO-deQ) (Shift를 누른 상태로 클릭해주세요:smile:)
+- 발표 및 시연영상 : [YouTube](https://youtu.be/fghqxWO-deQ)
