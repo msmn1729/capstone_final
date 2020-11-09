@@ -63,4 +63,6 @@
 
 ## 시연 동영상:oncoming_police_car:
 
+![캡스톤 시연](https://user-images.githubusercontent.com/59201008/98544486-70294d00-22d7-11eb-9e64-f871eb1380a1.gif)
+
 - 발표 및 시연영상 : [YouTube](https://youtu.be/fghqxWO-deQ)
